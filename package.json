@@ -2,10 +2,10 @@
   "name": "newsapp",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "dev": "nodemon index.js",
-    "start": "npm install && node index.js"
+    "dev": "nodemon server.js",
+    "start": "npm install && node server.js"
   },
   "author": "",
   "license": "ISC",
