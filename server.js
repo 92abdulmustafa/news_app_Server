@@ -2,7 +2,7 @@ const express = require("express");
 const bodyParser = require("body-parser");
 const cors = require("cors");
 
-const globalHelpers = require("./utils/globalhelpers");
+const globalHelpers = require("./utils/globalHelpers");
 
 const app = express();
 // Create Express app
